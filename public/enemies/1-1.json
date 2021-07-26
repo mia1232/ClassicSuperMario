@@ -1,0 +1,28 @@
+{
+    "enemies": [
+        {
+            "type": "mushroom",
+            "location": {
+                "x": 100,
+                "y": 20
+            },
+            "vel": 20
+        },
+        {
+            "type": "mushroom",
+            "location": {
+                "x": 200,
+                "y": 20
+            },
+            "vel": 30
+        },
+        {
+            "type": "mushroom",
+            "location": {
+                "x": 300,
+                "y": 20
+            },
+            "vel": 30
+        }
+    ]
+}
