@@ -10,7 +10,7 @@
 上下左右键移动 空格跳跃 
 
 ##### 游戏运行
-npm install && npm run serve
+npm install && npm run start
 
 ***
 
