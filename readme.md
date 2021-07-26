@@ -18,5 +18,3 @@ npm install && npm run serve
 
 ![Image text](https://raw.githubusercontent.com/mia1232/ClassicSuperMario/master/screenShots/gamescreenShot1.jpeg)
 
-![Image text](https://raw.githubusercontent.com/mia1232/ClassicSuperMario/master/screenShots/gamescreenShot2.jpeg)
-
